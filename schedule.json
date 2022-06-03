@@ -1,13 +1,20 @@
 [
   {
     "id": 1,
+    "event": "TV",
+    "setlist": "NET. eXpresi",
+    "tanggal": "Sabtu, 4 Juni 2022",
+    "pukul": "08.30 WIB"
+  },
+  {
+    "id": 2,
     "event": "Theater",
     "setlist": "Gadis-Gadis Remaja",
     "tanggal": "Sabtu, 4 Juni 2022",
     "pukul": "16.00 WIB"
   },
   {
-    "id": 2,
+    "id": 3,
     "event": "Theater",
     "setlist": "Aturan Anti Cinta",
     "tanggal": "Sabtu, 5 Juni 2022",
