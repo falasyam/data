@@ -2,15 +2,8 @@
   {
     "id": 1,
     "event": "Theater",
-    "setlist": "Gadis-Gadis Remaja",
-    "tanggal": "Sabtu, 4 Juni 2022",
-    "pukul": "16.00 WIB"
-  },
-  {
-    "id": 2,
-    "event": "Theater",
     "setlist": "Aturan Anti Cinta",
-    "tanggal": "Sabtu, 5 Juni 2022",
+    "tanggal": "Minggu, 5 Juni 2022",
     "pukul": "14.00 WIB"
   }
 ]
