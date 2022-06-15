@@ -1,14 +1,6 @@
 [
   {
     "id": 1,
-    "link": "https://jkt48.com/calendar/list?lang=id",
-    "event": "Theater",
-    "setlist": "Tunas di Balik Seragam",
-    "tanggal": "Rabu, 15 Juni 2022",
-    "pukul": "19.00 WIB"
-  },
-  {
-    "id": 2,
     "link": "https://jkt48.com/flyinghighpbjpntrip?s=09",
     "event": "Video Call",
     "setlist": "Flying High - Japan Trip",
@@ -16,7 +8,7 @@
     "pukul": "12.00 WIB"
   },
   {
-    "id": 3,
+    "id": 2,
     "link": "https://jkt48.com/flyinghighpbjpntrip?s=09",
     "event": "Video Call",
     "setlist": "Flying High - Japan Trip",
@@ -24,7 +16,7 @@
     "pukul": "13.30 WIB"
   },
   {
-    "id": 4,
+    "id": 3,
     "link": "https://jkt48.com/flyinghighpbjpntrip?s=09",
     "event": "Video Call",
     "setlist": "Flying High - Japan Trip",
@@ -32,7 +24,7 @@
     "pukul": "15.00 WIB"
   },
   {
-    "id": 5,
+    "id": 4,
     "link": "https://jkt48.com/calendar/list?lang=id",
     "event": "Theater",
     "setlist": "Gadis Gadis Remaja",
