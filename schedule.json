@@ -3,8 +3,16 @@
     "id": 1,
     "link": "https://jkt48.com/calendar/list?lang=id",
     "event": "Theater",
-    "setlist": "Belum ada jadwal",
-    "tanggal": " ",
-    "pukul": " "
+    "setlist": "Gadis-Gadis Remaja",
+    "tanggal": "Sabtu, 3 September 2022",
+    "pukul": "14:00 WIB"
+  },
+  {
+    "id": 2,
+    "link": "https://jkt48.com/calendar/list?lang=id",
+    "event": "Theater",
+    "setlist": "Aturan Anti Cinta",
+    "tanggal": "Minggu, 4 September 2022",
+    "pukul": "19:00 WIB"
   }
 ]
